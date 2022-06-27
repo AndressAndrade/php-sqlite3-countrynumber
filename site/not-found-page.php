@@ -1,3 +1,5 @@
 <?php
-http_response_code(404);
+http_response_code(404); 
 echo 'Page not found';
+?>
+<h1>Noa</h1>
