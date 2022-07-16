@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:php-sqlite3-countrynumber}/src/database/sample-3.db",
+            "name": "sample"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
